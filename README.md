@@ -4,11 +4,11 @@
 * It is calculated as the minimum number of **insertions**, **deletions**, or **substitutions(replacement)** required to change one string into the other.
 
 ####  For example:
-kitten → sitting
-kitten → sitten (substitute 'k' with 's')
-sitten → sittin (substitute 'e' with 'i')
-sittin → sitting (insert 'g')
-Distance = 3
+* kitten → sitting
+* kitten → sitten (substitute 'k' with 's')
+* sitten → sittin (substitute 'e' with 'i')
+* sittin → sitting (insert 'g')
+**Distance = 3**
 
 #### Algorithm(c++):-
 ```
